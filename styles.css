@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+}
+
+canvas {
+    background-image: linear-gradient(90deg, #10b4ae 0%, #2cafe2 100%);
+}
