@@ -82,7 +82,7 @@ class Boid {
         }
     }
 
-    cohesion(boids) {
+    align(boids) {
         let avgX = 0, avgY = 0;
         let neighbours = 0;
 
@@ -126,7 +126,7 @@ class Boid {
         }
     }
 
-    align(boids) {
+    cohesion(boids) {
         let avgX = 0, avgY = 0;
         let neighbours = 0;
 
