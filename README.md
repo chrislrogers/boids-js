@@ -1,4 +1,4 @@
 # boids-js
- An implementation of the "boids" algorithm in JavaScript
+ An vanilla JS implementation of the "[boids](https://en.wikipedia.org/wiki/Boids)" algorithm (developed by Craig Reynolds in 1986).
 
 [View live here](https://chrislrogers.github.io/boids-js/)
